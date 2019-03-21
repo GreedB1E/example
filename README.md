@@ -1,3 +1,1 @@
-#example site
-
-this is our example 
+this is an example
